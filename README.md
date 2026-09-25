@@ -15,6 +15,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** — 2º semestre
+- ☕ Estudando **Java**
 - 🐍 Estudando **Automação com IA em Python**
 - 🗄️ Estudando **Banco de Dados**
 - 🏗️ Estudando **Engenharia de Software**
@@ -29,6 +30,7 @@
 
 <div align="center">
 
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00BFFF)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00BFFF)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF)
@@ -95,7 +97,7 @@
 
 </div>
 
-
+> ⚠️ **Importante:** a animação da cobrinha só aparece depois de configurar a GitHub Action (arquivo `snake.yml` enviado anteriormente).
 
 <br>
 
