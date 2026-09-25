@@ -96,7 +96,7 @@
 
 </div>
 
-> ⚠️ **Importante:** a animação da cobrinha só aparece depois de configurar a GitHub Action (veja o arquivo `snake.yml` enviado anteriormente).
+
 
 <br>
 
