@@ -15,7 +15,6 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** — 2º semestre
-- ☕ Estudando **Java**
 - 🐍 Estudando **Automação com IA em Python**
 - 🗄️ Estudando **Banco de Dados**
 - 🏗️ Estudando **Engenharia de Software**
