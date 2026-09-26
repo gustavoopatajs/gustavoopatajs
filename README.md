@@ -54,38 +54,11 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gustavoopatajs&show_icons=true&theme=dark&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&border_color=007ACC&text_color=FFFFFF&hide_border=false" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoopatajs&layout=compact&theme=dark&bg_color=0D1117&title_color=00BFFF&border_color=007ACC&text_color=FFFFFF&hide_border=false" alt="Top Languages" width="48%" />
-
-<br>
 
 <img src="https://streak-stats.demolab.com/?user=gustavoopatajs&theme=dark&background=0D1117&border=007ACC&stroke=007ACC&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" width="70%" />
 
 </div>
 
-<br>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoopatajs&theme=react-dark&bg_color=0D1117&color=00BFFF&line=007ACC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gustavoopatajs&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" alt="GitHub Trophies" />
-
-</div>
 
 <br>
 
