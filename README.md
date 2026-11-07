@@ -12,6 +12,37 @@
 
 <br>
 
+## Tecnologias e Ferramentas
+
+### Linguagens
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+</div>
+
+### Controle de Versão e Colaboração
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+</div>
+
+### Ambiente de Desenvolvimento
+
+<div align="center">
+
+![VSCode](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
+
+<br>
+
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** — 2º semestre
