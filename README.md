@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%8E%93;Aprendendo+Python;Explorando+Automa%C3%A7%C3%A3o+com+IA+%F0%9F%A4%96;Um+commit+por+vez+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 <br>
+
 ## Tecnologias e Ferramentas
 
 ### Linguagens
@@ -73,22 +74,6 @@
 - 📋 Estudando **Engenharia/Levantamento de Requisitos**
 - 🛠️ Praticando no **VS Code**
 - 📫 Bora trocar ideia? Me chama no LinkedIn abaixo 👇
-
-<br>
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00BFFF)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00BFFF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF)
-![VSCode](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00BFFF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00BFFF)
-
-</div>
 
 <br>
 
