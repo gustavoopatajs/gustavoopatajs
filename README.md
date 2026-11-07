@@ -7,19 +7,36 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%8E%93;Aprendendo+Python;Explorando+Automa%C3%A7%C3%A3o+com+IA+%F0%9F%A4%96;Um+commit+por+vez+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
-</div>
-
 <br>
-
 ## Tecnologias e Ferramentas
 
 ### Linguagens
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" height="40" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="40" alt="JavaScript">
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" height="40" alt="SQL">
+
+</div>
+
+### Front-end
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" height="40" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" height="40" alt="CSS3">
+<img src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699" height="40" alt="Sass">
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" alt="React">
+<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" height="40" alt="Vite">
+
+</div>
+
+### Back-end e Runtime
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" height="40" alt="Node.js">
 
 </div>
 
@@ -27,8 +44,8 @@
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" height="40" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" height="40" alt="GitHub">
 
 </div>
 
@@ -36,10 +53,12 @@
 
 <div align="center">
 
-![VSCode](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="40" alt="VS Code">
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" height="40" alt="Linux">
 
 </div>
+
+
 
 <br>
 
